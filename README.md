@@ -49,7 +49,12 @@ This plot shows the training and validation accuracy and loss over epochs for di
 
 This plot compares the final evaluation accuracy and loss for each regularization strength.
 
-![Accuracy and Loss at Evaluation](output3.png)
+![Accuracy and Loss at Evaluation](output4.png)
+
+### 3. Comparing Training accuracy and loss with evaluation accuracy and loss to get insight on overfitting and underfitting
+This plot compares the training and evaluation accuracy and loss for each regularization strength.
+![Accuracy and Loss at Training and Evaluation](output5.png)
+
 
 ## Implementation
 
